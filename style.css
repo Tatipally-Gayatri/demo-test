@@ -1,0 +1,26 @@
+
+        .jumbotron{  
+            background-color:rgb(73, 62, 73);
+            color:rgb(206, 206, 212);
+            margin: 0px auto;
+            padding:70px 30px 70px 30px;
+        }
+        .footer{
+            background-color:rgb(73, 62, 73);
+            color:rgb(206, 206, 212);
+            margin:0px auto;
+            padding:20px 0px 20px 0px;
+            
+        }
+        .row-header{
+            margin:0px auto;
+            padding:0px auto;
+            
+
+        }
+        .row-content{
+            margin:0px auto;
+            padding:10px 0px 10px 0px;
+            border-bottom:1px ridge;
+            
+        }
